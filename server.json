@@ -1,0 +1,17 @@
+{
+  "target": "ufficio",
+  "endpoints": [
+    "STRINGA_CIFRATA_IN_BASE64_DEL_SERVER_1",
+    "STRINGA_CIFRATA_IN_BASE64_DEL_SERVER_2"
+  ],
+  "target": "produzione",
+  "endpoints": [
+    "STRINGA_CIFRATA_IN_BASE64_DEL_SERVER_1",
+    "STRINGA_CIFRATA_IN_BASE64_DEL_SERVER_2"
+  ],
+  "target": "motorhome",
+  "endpoints": [
+    "STRINGA_CIFRATA_IN_BASE64_DEL_SERVER_1",
+    "STRINGA_CIFRATA_IN_BASE64_DEL_SERVER_2"
+  ],
+}
