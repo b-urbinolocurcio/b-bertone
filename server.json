@@ -1,14 +1,14 @@
 {
-  "ufficio": [
-    "STRINGA_CIFRATA_IN_BASE64_DEL_SERVER_1",
-    "STRINGA_CIFRATA_IN_BASE64_DEL_SERVER_2"
+  "UFFICIO": [
+    "uSzahYUqxsNQcNFFL2gy/jin9s6lvz/33ms6H/s6HjzRxmZrwqZeC8TQKdb43ug6",
+    "gnZoN4WxkT2a83XYk88+weR5ivCbBYzi+q7lSsfeaclh8fcAR/HXACqExGEZabIu"
   ],
-  "produzione": [
-    "STRINGA_CIFRATA_IN_BASE64_DEL_SERVER_1",
-    "STRINGA_CIFRATA_IN_BASE64_DEL_SERVER_2"
+  "MOTORHOME": [
+    "QNLLMO/SDEa6RQrK8F1XhlBO/lupZRl164znyDSkoY3U2/MPHkXdt3aRWqWyY6dg",
+    "XqI/oFYsmHJt52c1YNL4KcbHTD3wMBImj7FEcfE3DhNqbyCAh6+Z5acHpVWJ4HU6"
   ],
-  "motorhome": [
-    "STRINGA_CIFRATA_IN_BASE64_DEL_SERVER_1",
-    "STRINGA_CIFRATA_IN_BASE64_DEL_SERVER_2"
+  "PRODUZIONE": [
+    "aZieibgyTnjumWPOoJZVr8ST1oK/6ZC3TrqbGhiNQKzWFWLGxOYgMePe7xTAX15+",
+    "nfb+YPhvoLoY2oThv/qiucd6HasrryBiTeQs9HxOP5qowx3Z6dgWVtz2TGFzplpl"
   ]
 }
